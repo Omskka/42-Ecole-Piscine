@@ -1,2 +1,8 @@
-
-"dağa bakan maymun muz arıyor demektir"
+Shell00 - 100%
+C00 - 85%
+C01 - 100%
+C02 - 75%
+C03 - 75%
+C04 - 70%
+C05 - 80%
+C06 - ?
