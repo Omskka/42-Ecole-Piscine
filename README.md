@@ -15,3 +15,5 @@ Exam03 (Final) - 48%
 Final Level (6.20)
 
 Piscine result : Pass 
+
+kickoff : October 3rd 2022 
