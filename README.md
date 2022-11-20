@@ -1,5 +1,5 @@
 ECOLE-42 ISTANBUL/
-(Aug. 22 - Sep. 19)
+(Aug. 22 - Sep. 19, 2022)
 -----------------------
 Projects/
 
