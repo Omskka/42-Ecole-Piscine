@@ -11,10 +11,10 @@ C04 - 70%  ,
 C05 - 80%  ,
 C06 - 70%  ,
 
-Exam00 - 0%
-Exam01 - 48%
-Exam02 - 42%
-Exam03 (Final) - 48%
+Exam00 - 0%  ,
+Exam01 - 48%  ,
+Exam02 - 42%  ,
+Exam03 (Final) - 48%  ,
 
 Final Level (6.20)
 
