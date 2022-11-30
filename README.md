@@ -1,7 +1,7 @@
 ECOLE-42 ISTANBUL/
 (Aug. 22 - Sep. 19, 2022)
 -----------------------
-<h2/<Projects/</h2>
+<h2>Projects/</h2>
 
 Shell00 - 100%
 
@@ -24,6 +24,6 @@ Exam03 (Final) - 48%  ,
 -----------------------
 Final Level (6.20)
 
-Piscine result : <h2>Pass</h2> ✅
+Piscine result : **Pass** ✅
 
 kickoff : October 3rd 2022 
