@@ -3,8 +3,6 @@ ECOLE-42 ISTANBUL/
 -----------------------
 <h2>Projects/</h2>
 
-Shell00 - 100%
-
 ![p](SS/pro.png)
 
 --------------------
